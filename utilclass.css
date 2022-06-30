@@ -1,0 +1,39 @@
+.flex{
+    display: flex;
+}
+.flex-wrap{
+    flex-wrap: wrap;
+}
+.items-center{
+    align-items: center;
+}
+.justify-center{
+    justify-content: center;
+}
+.space-between{
+    justify-content: space-between;
+}
+.text-bold{
+    font-weight: bolder;
+}
+.mx-5{
+    margin: 5px 5px;
+}
+.mx-1{
+    margin: 1px 1px;
+}
+.logo-size{
+    height: 25px;
+    width: 25px;
+}
+
+.border{
+    border: 2px solid red;
+}
+
+.padding-R-10{
+   padding-right: 28px;
+}
+.margin-20-up{
+margin-top: 20px;
+}
